@@ -52,3 +52,6 @@ h1{font-size:clamp(28px,3vw,40px);overflow-wrap:anywhere}
 @media(max-width:760px){.wordmark{font-size:14px;letter-spacing:0}}
 
 .program-list{margin-top:24px}.program-list .person h3{font-size:21px;letter-spacing:.02em;line-height:1.65}.program-list .person h3+p{margin-top:8px}
+.site-icon{flex-shrink:0;border-radius:7px}.wordmark{gap:10px}
+@media(max-width:760px){.wordmark{font-size:14px;gap:8px}.site-icon{width:26px;height:26px}.site-header{gap:10px}.header-link span{margin-left:4px}}
+@media(max-width:420px){.site-header{flex-wrap:wrap;row-gap:12px}.header-link{margin-left:auto}}
