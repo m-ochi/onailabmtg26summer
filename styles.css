@@ -50,3 +50,5 @@ h1{font-size:clamp(28px,3vw,40px);overflow-wrap:anywhere}
 
 .season{font-size:.45em;letter-spacing:0;color:#17846c;margin-left:.2em}
 @media(max-width:760px){.wordmark{font-size:14px;letter-spacing:0}}
+
+.program-list{margin-top:24px}.program-list .person h3{font-size:21px;letter-spacing:.02em;line-height:1.65}.program-list .person h3+p{margin-top:8px}
